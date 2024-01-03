@@ -1,5 +1,5 @@
+import path from "node:path"
 import fs from "node:fs"
-import path from "path"
 
 fs.mkdirSync("json", { recursive: true })
 fs.mkdirSync("decorations/avatar", { recursive: true })
@@ -11,7 +11,7 @@ const avatars = fs.existsSync("json/avatarDecorations.json") ? JSON.parse(fs.rea
 const profiles = fs.existsSync("json/profileDecorations.json") ? JSON.parse(fs.readFileSync("json/profileDecorations.json")) : {}
 
 const properties = Buffer.from(JSON.stringify({
-  "client_build_number": 236850
+  "client_build_number": 256231
 })).toString("base64")
 
 const categories = await fetch("https://discord.com/api/v9/collectibles-categories", {
