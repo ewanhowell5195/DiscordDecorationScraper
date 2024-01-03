@@ -1,0 +1,255 @@
+{
+  "1139323075519852625": {
+    "name": "splash",
+    "title": "Hydro Blast",
+    "effects": [
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1139323093114962021": {
+    "name": "earthquake",
+    "title": "Shatter",
+    "effects": [
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1139323100127834223": {
+    "name": "magic-girl",
+    "title": "Magic Hearts",
+    "effects": [
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1174460912699191336": {
+    "name": "sakura",
+    "title": "Sakura Dreams",
+    "effects": [
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1139323101444845690": {
+    "name": "sayan",
+    "title": "Power Surge",
+    "effects": [
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1139323100568244356": {
+    "name": "shuriken",
+    "title": "Shuriken Strike",
+    "effects": [
+      "intro3",
+      "loop3"
+    ],
+    "extra": [
+      "static3",
+      "thumbnail",
+      "reducedMotion3"
+    ]
+  },
+  "1139323098810822696": {
+    "name": "vines",
+    "title": "Mystic Vines",
+    "effects": [
+      "intro",
+      "loop",
+      "intro-glow"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1139323099251232829": {
+    "name": "fairy",
+    "title": "Pixie Dust",
+    "effects": [
+      "loop"
+    ],
+    "extra": [
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1139323095304392864": {
+    "name": "cereal",
+    "title": "Discord-Os",
+    "effects": [
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1139323095744790569": {
+    "name": "plate",
+    "title": "Breakfast Plate",
+    "effects": [
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1139323101881061467": {
+    "name": "punk-girl",
+    "title": "Ghoulish Graffiti",
+    "effects": [
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1139323102753468546": {
+    "name": "ghost-skull",
+    "title": "Dark Omens",
+    "effects": [
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1139323094431973427": {
+    "name": "zombie-slime",
+    "title": "Zombie Slime",
+    "effects": [
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1159277016571449404": {
+    "name": "leaves",
+    "title": "Autumn Foliage",
+    "effects": [
+      "intro-branch",
+      "intro-leaves",
+      "loop"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1159275733764550728": {
+    "name": "rain",
+    "title": "Lilypad Life",
+    "effects": [
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1146328960481886318": {
+    "name": "deck-the-halls",
+    "title": "Deck the Halls",
+    "effects": [
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "thumbnail",
+      "thumbnail",
+      "thumbnail"
+    ]
+  },
+  "1146328960951668777": {
+    "name": "snowy-shenanigans",
+    "title": "Snowy Shenanigans",
+    "effects": [
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "reducedMotion",
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1179493515126898809": {
+    "name": "goozilla",
+    "title": "Goozilla",
+    "effects": [
+      "intro-claw",
+      "intro-slime",
+      "loop"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1179493515126898812": {
+    "name": "heartzilla",
+    "title": "Heartzilla",
+    "effects": [
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1179493515126898815": {
+    "name": "monster-pop",
+    "title": "Monster Pop",
+    "effects": [
+      "intro-monster",
+      "intro-glass",
+      "loop"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced-motion"
+    ]
+  }
+}
