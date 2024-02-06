@@ -275,5 +275,70 @@
       "thumbnail",
       "reducedMotion"
     ]
+  },
+  "1197344710830862356": {
+    "name": "cyberpunk-nightrunner",
+    "title": "Nightrunner",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1197344781060288693": {
+    "name": "cyberpunk-uplinkerror",
+    "title": "Uplink Error",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1202061575339376741": {
+    "name": "dragon-dance",
+    "title": "Dragon Dance",
+    "effects": [
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1202058906738622514": {
+    "name": "fortune-flurry",
+    "title": "Fortune Flurry",
+    "effects": [
+      "frame",
+      "intro",
+      "loop"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1202061433689350204": {
+    "name": "midnight-celebration",
+    "title": "Midnight Celebration",
+    "effects": [
+      "frame",
+      "intro",
+      "fireworks"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced-motion"
+    ]
   }
 }
