@@ -305,7 +305,8 @@
     "title": "Dragon Dance",
     "effects": [
       "intro",
-      "loop"
+      "loop",
+      "intro_02c49bbfe7"
     ],
     "extra": [
       "static",
