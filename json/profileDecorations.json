@@ -306,7 +306,9 @@
     "effects": [
       "intro",
       "loop",
-      "intro_02c49bbfe7"
+      "intro_02c49bbfe7",
+      "intro_2e0f72c35c",
+      "loop_20e743b578"
     ],
     "extra": [
       "static",
@@ -338,6 +340,42 @@
     ],
     "extra": [
       "static",
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1207049118388715520": {
+    "name": "rock-slide",
+    "title": "Rock Slide",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1207049367069139004": {
+    "name": "vortex",
+    "title": "Vortex",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1207049501379006514": {
+    "name": "mastery",
+    "title": "Mastery",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
       "thumbnail",
       "reduced-motion"
     ]

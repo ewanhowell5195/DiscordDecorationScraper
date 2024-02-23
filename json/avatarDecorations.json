@@ -214,5 +214,29 @@
   "1202074104945971311": {
     "name": "Koi Pond",
     "category": "Lunar New Year"
+  },
+  "1207047386778697828": {
+    "name": "Fire",
+    "category": "Elements"
+  },
+  "1207047673673420860": {
+    "name": "Water",
+    "category": "Elements"
+  },
+  "1207047813888872518": {
+    "name": "Air",
+    "category": "Elements"
+  },
+  "1207048053006139492": {
+    "name": "Earth",
+    "category": "Elements"
+  },
+  "1207048292551368745": {
+    "name": "Lightning",
+    "category": "Elements"
+  },
+  "1207048659666079814": {
+    "name": "Balance",
+    "category": "Elements"
   }
 }
