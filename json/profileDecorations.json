@@ -379,5 +379,41 @@
       "thumbnail",
       "reduced-motion"
     ]
+  },
+  "1212582317986545694": {
+    "name": "dreamy",
+    "title": "Dreamy",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1212582395937816606": {
+    "name": "ki-detonate",
+    "title": "Ki Detonate",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1212582476866920448": {
+    "name": "sushi-mania",
+    "title": "Sushi Mania",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced-motion"
+    ]
   }
 }
