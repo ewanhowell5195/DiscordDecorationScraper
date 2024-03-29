@@ -415,5 +415,85 @@
       "thumbnail",
       "reduced-motion"
     ]
+  },
+  "1217626513940283392": {
+    "name": "petal-serenade",
+    "title": "Petal Serenade",
+    "effects": [
+      "intro-pse01",
+      "idle-frame",
+      "idle-petals"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1217627055097647164": {
+    "name": "fellowship-of-the-spring",
+    "title": "Fellowship of the Spring",
+    "effects": [
+      "intro-fose01",
+      "idle-frame",
+      "idle-critters"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1217627233741443152": {
+    "name": "spring-bloom",
+    "title": "Spring Bloom",
+    "effects": [
+      "intro-sbe01",
+      "idle-flowers",
+      "idle-rain"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1220432606059954196": {
+    "name": "cloves-ruse",
+    "title": "Clove’s Ruse",
+    "effects": [
+      "intro_b62d8ce4",
+      "idle_050419ac"
+    ],
+    "extra": [
+      "thumbnail_a5917b67",
+      "reduced-motion_967b0b15"
+    ]
+  },
+  "1220432721134747648": {
+    "name": "ace",
+    "title": "ACE",
+    "effects": [
+      "intro_fa545ec0",
+      "idle_frame_83d027d7",
+      "idle_a4ea3c0d"
+    ],
+    "extra": [
+      "static_ac0fb88a",
+      "thumbnail_7c4f8929",
+      "reduced-motion_4e8ecf63"
+    ]
+  },
+  "1220432672443334778": {
+    "name": "the-immortal-clove",
+    "title": "The Immortal Clove",
+    "effects": [
+      "intro_310a69a3",
+      "idle_8739289c"
+    ],
+    "extra": [
+      "thumbnail_20409a9b",
+      "reduced-motion_7d0e8318"
+    ]
   }
 }
