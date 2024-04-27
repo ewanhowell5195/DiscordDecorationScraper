@@ -495,5 +495,42 @@
       "thumbnail_20409a9b",
       "reduced-motion_7d0e8318"
     ]
+  },
+  "1228233381897179137": {
+    "name": "study-spot",
+    "title": "Study Spot",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail"
+    ]
+  },
+  "1228234629429985300": {
+    "name": "all-nighter",
+    "title": "All-Nighter",
+    "effects": [
+      "intro",
+      "idle-frame",
+      "idle-lights"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1228237154434547833": {
+    "name": "watercolors",
+    "title": "Watercolours",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced-motion"
+    ]
   }
 }
