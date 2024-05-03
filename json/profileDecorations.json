@@ -532,5 +532,44 @@
       "thumbnail",
       "reduced-motion"
     ]
+  },
+  "1232073288814035094": {
+    "name": "shooting-stars",
+    "title": "Shooting Stars",
+    "effects": [
+      "intro_770bd27eae0",
+      "loop_b1b5a9936b"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1232073451003580446": {
+    "name": "supernova",
+    "title": "Supernova",
+    "effects": [
+      "intro_9e90bcf683",
+      "loop_5835f1730b"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced-motion"
+    ]
+  },
+  "1232073610194190366": {
+    "name": "twilight",
+    "title": "Twilight",
+    "effects": [
+      "intro_56dbd2384f",
+      "loop_ff3e249d19"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced-motion"
+    ]
   }
 }
