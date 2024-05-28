@@ -571,5 +571,80 @@
       "thumbnail",
       "reduced-motion"
     ]
+  },
+  "1237650432650645504": {
+    "name": "feelin-mischievous",
+    "title": "Feelin’ Mischievous",
+    "effects": [
+      "intro_bg",
+      "intro",
+      "idle_bg",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1237650563378712609": {
+    "name": "feelin-70s",
+    "title": "Feelin’ 70s",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1237650638536708156": {
+    "name": "feelin-pizzazz",
+    "title": "Feelin’ Pizzazz",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1237654808668672020": {
+    "name": "jolly-roger",
+    "title": "Jolly Roger",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1237654892298899517": {
+    "name": "forgotten-treasure",
+    "title": "Forgotten Treasure",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1237654960620175360": {
+    "name": "haunted-man-o-war",
+    "title": "Haunted Man o’ War",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }

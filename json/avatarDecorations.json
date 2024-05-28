@@ -358,5 +358,45 @@
   "1232072861636755466": {
     "name": "Astronaut Helmet",
     "category": "Galaxy"
+  },
+  "1237649967288422430": {
+    "name": "Feelin’ Awe",
+    "category": "Feelin’ Retro"
+  },
+  "1237650049018892299": {
+    "name": "Feelin’ Panic",
+    "category": "Feelin’ Retro"
+  },
+  "1237650125090983968": {
+    "name": "Feelin’ Nervous",
+    "category": "Feelin’ Retro"
+  },
+  "1237650202391744522": {
+    "name": "Feelin’ Scrumptious",
+    "category": "Feelin’ Retro"
+  },
+  "1237653984555044874": {
+    "name": "Pirate Captain",
+    "category": "Pirates"
+  },
+  "1237654058370859098": {
+    "name": "Scallywag",
+    "category": "Pirates"
+  },
+  "1237654166063808542": {
+    "name": "Good Ol’ Pepper",
+    "category": "Pirates"
+  },
+  "1237654249882521630": {
+    "name": "Crossbones",
+    "category": "Pirates"
+  },
+  "1237654645846048860": {
+    "name": "Cannon Fire",
+    "category": "Pirates"
+  },
+  "1237654716834644028": {
+    "name": "Helmsman",
+    "category": "Pirates"
   }
 }
