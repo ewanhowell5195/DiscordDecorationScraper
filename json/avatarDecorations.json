@@ -398,5 +398,29 @@
   "1237654716834644028": {
     "name": "Helmsman",
     "category": "Pirates"
+  },
+  "1245087683496116225": {
+    "name": "Joystick",
+    "category": "Arcade"
+  },
+  "1245087740928720977": {
+    "name": "Clyde Invaders",
+    "category": "Arcade"
+  },
+  "1245087875209367623": {
+    "name": "Pipedream",
+    "category": "Arcade"
+  },
+  "1245087928992927764": {
+    "name": "Hot Shot",
+    "category": "Arcade"
+  },
+  "1245087983065890858": {
+    "name": "Mallow Jump",
+    "category": "Arcade"
+  },
+  "1245088043732308058": {
+    "name": "Slither ‘n’ Snack",
+    "category": "Arcade"
   }
 }

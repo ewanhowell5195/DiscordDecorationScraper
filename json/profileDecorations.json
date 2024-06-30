@@ -589,7 +589,7 @@
   },
   "1237650563378712609": {
     "name": "feelin-70s",
-    "title": "Feelin’ 70s",
+    "title": "Feelin’ 90s",
     "effects": [
       "intro",
       "idle"
@@ -643,6 +643,48 @@
       "idle"
     ],
     "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1245088109582880848": {
+    "name": "space-evader",
+    "title": "Space Evader",
+    "effects": [
+      "intro_bg",
+      "intro_spaceship",
+      "idle",
+      "hud"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1245088219876298924": {
+    "name": "turbo-drive",
+    "title": "Turbo Drive",
+    "effects": [
+      "intro",
+      "idle_finish",
+      "idle_confetti"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1245088271109722193": {
+    "name": "twinkle-trails",
+    "title": "Twinkle Trails",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
       "thumbnail",
       "reduced_motion"
     ]
