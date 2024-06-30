@@ -688,5 +688,41 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1252405019991474287": {
+    "name": "saya",
+    "title": "Saya",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1252405241660440629": {
+    "name": "wake-up",
+    "title": "Wake Up!",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1252405254499205233": {
+    "name": "tocotoco",
+    "title": "Tocotoco",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
