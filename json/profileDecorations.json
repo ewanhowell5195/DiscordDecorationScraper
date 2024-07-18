@@ -724,5 +724,104 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1256321669493166212": {
+    "name": "arcane-summons",
+    "title": "Arcane Summons",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1256321669493166215": {
+    "name": "vengeance",
+    "title": "Vengeance",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1256321669493166218": {
+    "name": "spirit-flame",
+    "title": "Spirit Flame",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1262491690971955282": {
+    "name": "nice-profile",
+    "title": "NiCe pRoFiLE",
+    "effects": [
+      "intro_fd796086",
+      "idle_a",
+      "idle_b"
+    ],
+    "extra": [
+      "thumbnail_f44f333d",
+      "reduced_motion_b65c8c80"
+    ]
+  },
+  "1262491690971955285": {
+    "name": "handsome-squidward",
+    "title": "Handsome Squidward",
+    "effects": [
+      "intro_e89c516b",
+      "idle_a",
+      "idle_b"
+    ],
+    "extra": [
+      "thumbnail_c1f759bf",
+      "reduced_motion_d3df5dfe"
+    ]
+  },
+  "1262492035558932605": {
+    "name": "doodlebob-takeover",
+    "title": "DoodleBob Takeover",
+    "effects": [
+      "intro_479359c2",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail_23f31885",
+      "reduced_motion_609b03f3"
+    ]
+  },
+  "1262492035558932608": {
+    "name": "plankton-splat",
+    "title": "Plankton Splat",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static_c6715167",
+      "thumbnail_72c641e8",
+      "reduced_motion_4d1c6587"
+    ]
+  },
+  "1262492035558932611": {
+    "name": "ocean-flowers",
+    "title": "Ocean Flowers",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail_fe6ab6db",
+      "reduced_motion_80a7ad22"
+    ]
   }
 }
