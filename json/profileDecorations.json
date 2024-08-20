@@ -767,7 +767,8 @@
     "effects": [
       "intro_fd796086",
       "idle_a",
-      "idle_b"
+      "idle_b",
+      "intro_a9d1e733"
     ],
     "extra": [
       "thumbnail_f44f333d",
@@ -822,6 +823,30 @@
     "extra": [
       "thumbnail_fe6ab6db",
       "reduced_motion_80a7ad22"
+    ]
+  },
+  "1266493591191158814": {
+    "name": "yoru_dimensional_rip",
+    "title": "Yoru Dimensional Rip",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1266493591233237173": {
+    "name": "vct_supernova",
+    "title": "VCT Supernova",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
     ]
   }
 }
