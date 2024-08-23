@@ -295,6 +295,10 @@
     "name": "Cypher Neural Theft",
     "category": "VALORANT Champions"
   },
+  "1274070185090879567": {
+    "name": "VALORANT Champions 2024",
+    "category": "VALORANT Champions"
+  },
   "1217624823656611952": {
     "name": "Honeyblossom",
     "category": "Springtoons"
@@ -463,6 +467,18 @@
     "name": "Fortnite Victory Crown",
     "category": "Quests"
   },
+  "1262457693965258874": {
+    "name": "Freezer Bunny Lovebug",
+    "category": "Quests"
+  },
+  "1262473048876122112": {
+    "name": "Wingman Boba",
+    "category": "Quests"
+  },
+  "1262518692248420434": {
+    "name": "Los Santos",
+    "category": "Quests"
+  },
   "1262491137386614813": {
     "name": "SpongeBob",
     "category": "SpongeBob"
@@ -514,5 +530,29 @@
   "1256321669467865095": {
     "name": "Arcane Sigil",
     "category": "Dark Fantasy"
+  },
+  "1271174186487906394": {
+    "name": "Kabuto",
+    "category": "Dojo"
+  },
+  "1271174271301062766": {
+    "name": "Oni Mask",
+    "category": "Dojo"
+  },
+  "1271174348392235080": {
+    "name": "Straw Hat",
+    "category": "Dojo"
+  },
+  "1271174676797853838": {
+    "name": "Sakura Ink",
+    "category": "Dojo"
+  },
+  "1271174759656456224": {
+    "name": "Sakura Warrior",
+    "category": "Dojo"
+  },
+  "1271174836625870909": {
+    "name": "Shuriken’s Mark",
+    "category": "Dojo"
   }
 }

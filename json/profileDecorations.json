@@ -848,5 +848,41 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1271174932528893962": {
+    "name": "onis-curse",
+    "title": "Oni’s Curse",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1271175071263752192": {
+    "name": "of-ink-and-steel",
+    "title": "Of Ink and Steel",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "static"
+    ]
+  },
+  "1271175143179423868": {
+    "name": "sakura-katana",
+    "title": "Sakura Katana",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
