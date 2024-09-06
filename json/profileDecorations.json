@@ -884,5 +884,30 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1277733175082094714": {
+    "name": "chocolate-discordos",
+    "title": "Chocolate Discord-Os",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1277733175128231946": {
+    "name": "heartzilla-purple",
+    "title": "Heartzilla (Purple)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reducedMotion"
+    ]
   }
 }

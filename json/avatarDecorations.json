@@ -95,12 +95,20 @@
     "name": "Toast",
     "category": "Breakfast"
   },
+  "1277733174998208613": {
+    "name": "Burnt Toast",
+    "category": "Breakfast"
+  },
   "1144056631374647459": {
     "name": "Morning Coffee",
     "category": "Breakfast"
   },
   "1144057023726628946": {
     "name": "Fried Egg",
+    "category": "Breakfast"
+  },
+  "1277733174939484190": {
+    "name": "Green Fried Egg",
     "category": "Breakfast"
   },
   "1144057249392771146": {
@@ -133,6 +141,10 @@
   },
   "1179493515076579376": {
     "name": "Stinkums",
+    "category": "Monsters"
+  },
+  "1277733175040151613": {
+    "name": "Goblin Stinkums",
     "category": "Monsters"
   },
   "1179493515076579370": {
@@ -325,7 +337,7 @@
   },
   "a_5e1210779d99ece1c0b4f438a5bc6e72": {
     "name": "Clown",
-    "category": "April Fools Day"
+    "category": "Miscellaneous"
   },
   "1228246415449264168": {
     "name": "Chromawave",
@@ -479,6 +491,10 @@
     "name": "Los Santos",
     "category": "Quests"
   },
+  "1278392092258734091": {
+    "name": "Hailey",
+    "category": "Quests"
+  },
   "1262491137386614813": {
     "name": "SpongeBob",
     "category": "SpongeBob"
@@ -554,5 +570,29 @@
   "1271174836625870909": {
     "name": "Shuriken’s Mark",
     "category": "Dojo"
+  },
+  "1277733174788493373": {
+    "name": "Sakura",
+    "category": "Dojo"
+  },
+  "1277733174809464914": {
+    "name": "Pink Sakura",
+    "category": "Dojo"
+  },
+  "1277733174830436365": {
+    "name": "Ukon Sakura",
+    "category": "Dojo"
+  },
+  "1277733174851407944": {
+    "name": "Gyoiko Sakura",
+    "category": "Dojo"
+  },
+  "1277733174872379533": {
+    "name": "Angry Frog",
+    "category": "Miscellaneous"
+  },
+  "1277733174893351075": {
+    "name": "Derpy Frog",
+    "category": "Miscellaneous"
   }
 }
