@@ -1,602 +1,251 @@
 {
-  "1157411984371880119": {
-    "name": "Graveyard Cat",
-    "category": "Halloween"
-  },
-  "1157411685687115859": {
-    "name": "Ghosts",
-    "category": "Halloween"
-  },
-  "1157412779335090268": {
-    "name": "Minions",
-    "category": "Halloween"
-  },
-  "1157412388509864069": {
-    "name": "Jack-o’-lantern",
-    "category": "Halloween"
-  },
-  "1157409074422481024": {
-    "name": "Autumn Leaves",
-    "category": "Fall"
-  },
-  "1157409869448618017": {
-    "name": "Pumpkin Spice",
-    "category": "Fall"
-  },
-  "1157457289872146472": {
-    "name": "Frog Hat",
-    "category": "Fall"
-  },
-  "1157409074422481021": {
-    "name": "Fox Hat",
-    "category": "Fall"
-  },
-  "1144005849740742707": {
-    "name": "Flaming Sword",
-    "category": "Fantasy"
-  },
-  "1144007738859470929": {
-    "name": "Magical Potion",
-    "category": "Fantasy"
-  },
-  "1144046002110738635": {
-    "name": "Fairy Sprites",
-    "category": "Fantasy"
-  },
-  "1144048390594908213": {
-    "name": "Wizard’s Staff",
-    "category": "Fantasy"
-  },
-  "1144048977138946231": {
-    "name": "Glowing Runes",
-    "category": "Fantasy"
-  },
-  "1144049316009353339": {
-    "name": "Defensive Shield",
-    "category": "Fantasy"
-  },
-  "1144049603109470371": {
-    "name": "Skull Medallion",
-    "category": "Fantasy"
-  },
-  "1144049924397334652": {
-    "name": "Treasure and Key",
-    "category": "Fantasy"
-  },
-  "1154896010255015996": {
-    "name": "Radiating Energy",
-    "category": "Anime"
-  },
-  "1144305233707671574": {
-    "name": "Soul Leaving Body",
-    "category": "Anime"
-  },
-  "1144307257807491095": {
-    "name": "Sweat Drops",
-    "category": "Anime"
-  },
-  "1144307629225672847": {
-    "name": "Starry-Eyed",
-    "category": "Anime"
-  },
-  "1144307957425778780": {
-    "name": "In Love",
-    "category": "Anime"
-  },
-  "1144308196723408959": {
-    "name": "Shocked",
-    "category": "Anime"
-  },
-  "1144308439720394945": {
-    "name": "Angry",
-    "category": "Anime"
-  },
-  "1144056139584127059": {
-    "name": "Toast",
-    "category": "Breakfast"
-  },
-  "1277733174998208613": {
-    "name": "Burnt Toast",
-    "category": "Breakfast"
-  },
-  "1144056631374647459": {
-    "name": "Morning Coffee",
-    "category": "Breakfast"
-  },
-  "1144057023726628946": {
-    "name": "Fried Egg",
-    "category": "Breakfast"
-  },
-  "1277733174939484190": {
-    "name": "Green Fried Egg",
-    "category": "Breakfast"
-  },
-  "1144057249392771146": {
-    "name": "Blueberry Jam",
-    "category": "Breakfast"
-  },
-  "1144057486203158561": {
-    "name": "Doughnut",
-    "category": "Breakfast"
-  },
-  "1144057737475534890": {
-    "name": "Pancakes",
-    "category": "Breakfast"
-  },
-  "1144058522808614924": {
-    "name": "DISXCORE Headset",
-    "category": "DISXCORE"
-  },
-  "1144058844004233370": {
-    "name": "Futuristic UI",
-    "category": "DISXCORE"
-  },
-  "1144059132517826602": {
-    "name": "Smoke",
-    "category": "DISXCORE"
-  },
-  "1179493515038818330": {
-    "name": "Beamchop",
-    "category": "Monsters"
-  },
-  "1179493515076579376": {
-    "name": "Stinkums",
-    "category": "Monsters"
-  },
-  "1277733175040151613": {
-    "name": "Goblin Stinkums",
-    "category": "Monsters"
-  },
-  "1179493515076579370": {
-    "name": "Chuck",
-    "category": "Monsters"
-  },
-  "1179493515118514187": {
-    "name": "Winkle",
-    "category": "Monsters"
-  },
-  "1179493515038818333": {
-    "name": "Chewbert",
-    "category": "Monsters"
-  },
-  "1184585205252628560": {
-    "name": "Doodlezard",
-    "category": "Monsters"
-  },
-  "1179493515118514190": {
-    "name": "Glop",
-    "category": "Monsters"
-  },
-  "1179493515118514193": {
-    "name": "Gawblehop",
-    "category": "Monsters"
-  },
-  "1174459438128713809": {
-    "name": "New Year",
-    "category": "Winter"
-  },
-  "1174459501873745940": {
-    "name": "Fresh Pine",
-    "category": "Winter"
-  },
-  "1184292714846621768": {
-    "name": "Snow Globe",
-    "category": "Winter"
-  },
-  "1174460802946834503": {
-    "name": "Fairy Lights",
-    "category": "Winter"
-  },
-  "1197344345783808161": {
-    "name": "Glitch",
-    "category": "Cyberpunk"
-  },
-  "1197344413718949938": {
-    "name": "Cybernetic",
-    "category": "Cyberpunk"
-  },
-  "1197344598675165204": {
-    "name": "Digital Sunrise",
-    "category": "Cyberpunk"
-  },
-  "1197344653515690054": {
-    "name": "Implant",
-    "category": "Cyberpunk"
-  },
-  "1202073087265476648": {
-    "name": "Fan Flourish",
-    "category": "Lunar New Year"
-  },
-  "1202073907918798848": {
-    "name": "Lunar Lanterns",
-    "category": "Lunar New Year"
-  },
-  "1202073807658164295": {
-    "name": "Firecrackers",
-    "category": "Lunar New Year"
-  },
-  "1202073979167461406": {
-    "name": "Dragon’s Smile",
-    "category": "Lunar New Year"
-  },
-  "1202445980377817179": {
-    "name": "Lucky Envelopes",
-    "category": "Lunar New Year"
-  },
-  "1202074104945971311": {
-    "name": "Koi Pond",
-    "category": "Lunar New Year"
-  },
-  "1207047386778697828": {
-    "name": "Fire",
-    "category": "Elements"
-  },
-  "1207047673673420860": {
-    "name": "Water",
-    "category": "Elements"
-  },
-  "1207047813888872518": {
-    "name": "Air",
-    "category": "Elements"
-  },
-  "1207048053006139492": {
-    "name": "Earth",
-    "category": "Elements"
-  },
-  "1207048292551368745": {
-    "name": "Lightning",
-    "category": "Elements"
-  },
-  "1207048659666079814": {
-    "name": "Balance",
-    "category": "Elements"
-  },
-  "1212569455880699944": {
-    "name": "Cat Ears",
-    "category": "Anime"
-  },
-  "1212569932391387137": {
-    "name": "Ki Energy",
-    "category": "Anime"
-  },
-  "1212570367017885737": {
-    "name": "Heartbloom",
-    "category": "Anime"
-  },
-  "1212570617404981348": {
-    "name": "Dismay",
-    "category": "Anime"
-  },
-  "1212581170823561236": {
-    "name": "Rage",
-    "category": "Anime"
-  },
-  "1212581413958979634": {
-    "name": "In Tears",
-    "category": "Anime"
-  },
-  "1220513979898793994": {
-    "name": "A Hint of Clove",
-    "category": "VALORANT Champions"
-  },
-  "1220513986051837952": {
-    "name": "Omen’s Cowl",
-    "category": "VALORANT Champions"
-  },
-  "1220513991449907280": {
-    "name": "Reyna’s Leer",
-    "category": "VALORANT Champions"
-  },
-  "1220513996889919548": {
-    "name": "FRAG OUT",
-    "category": "VALORANT Champions"
-  },
-  "1220514050551709787": {
-    "name": "Blade Storm",
-    "category": "VALORANT Champions"
-  },
-  "1266160780961906688": {
-    "name": "Yoru Dimensional Drift",
-    "category": "VALORANT Champions"
-  },
-  "1266160781008044135": {
-    "name": "Viper Poison Cloud",
-    "category": "VALORANT Champions"
-  },
-  "1266160780940939295": {
-    "name": "Cypher Neural Theft",
-    "category": "VALORANT Champions"
-  },
-  "1274070185090879567": {
-    "name": "VALORANT Champions 2024",
-    "category": "VALORANT Champions"
-  },
-  "1217624823656611952": {
-    "name": "Honeyblossom",
-    "category": "Springtoons"
-  },
-  "1217625430320742551": {
-    "name": "Dandelion Duo",
-    "category": "Springtoons"
-  },
-  "1217625725092233236": {
-    "name": "Hugh the Rainbow",
-    "category": "Springtoons"
-  },
-  "1217625936015392890": {
-    "name": "Strawberry Vine",
-    "category": "Springtoons"
-  },
-  "1217626041456001146": {
-    "name": "Butterflies",
-    "category": "Springtoons"
-  },
-  "1217626222851391529": {
-    "name": "The Petal Pack",
-    "category": "Springtoons"
-  },
-  "a_5e1210779d99ece1c0b4f438a5bc6e72": {
-    "name": "Clown",
-    "category": "Miscellaneous"
-  },
-  "1228246415449264168": {
-    "name": "Chromawave",
-    "category": "Lo-Fi Vibes"
-  },
-  "1228251189276184618": {
-    "name": "Cosy Cat",
-    "category": "Lo-Fi Vibes"
-  },
-  "1228251373158793251": {
-    "name": "Oasis",
-    "category": "Lo-Fi Vibes"
-  },
-  "1228251862709567508": {
-    "name": "Rainy Mood",
-    "category": "Lo-Fi Vibes"
-  },
-  "1228252061171449876": {
-    "name": "Cosy Headphones",
-    "category": "Lo-Fi Vibes"
-  },
-  "1228252237407588382": {
-    "name": "Doodling",
-    "category": "Lo-Fi Vibes"
-  },
-  "1232071069268049920": {
-    "name": "Stardust",
-    "category": "Galaxy"
-  },
-  "1232071159860822117": {
-    "name": "Black Hole",
-    "category": "Galaxy"
-  },
-  "1232071714909847682": {
-    "name": "Constellations",
-    "category": "Galaxy"
-  },
-  "1232072123950956635": {
-    "name": "Solar Orbit",
-    "category": "Galaxy"
-  },
-  "1232072522690854964": {
-    "name": "UFO",
-    "category": "Galaxy"
-  },
-  "1232072861636755466": {
-    "name": "Astronaut Helmet",
-    "category": "Galaxy"
-  },
-  "1237649967288422430": {
-    "name": "Feelin’ Awe",
-    "category": "Feelin’ Retro"
-  },
-  "1237650049018892299": {
-    "name": "Feelin’ Panic",
-    "category": "Feelin’ Retro"
-  },
-  "1237650125090983968": {
-    "name": "Feelin’ Nervous",
-    "category": "Feelin’ Retro"
-  },
-  "1237650202391744522": {
-    "name": "Feelin’ Scrumptious",
-    "category": "Feelin’ Retro"
-  },
-  "1237653984555044874": {
-    "name": "Pirate Captain",
-    "category": "Pirates"
-  },
-  "1237654058370859098": {
-    "name": "Scallywag",
-    "category": "Pirates"
-  },
-  "1237654166063808542": {
-    "name": "Good Ol’ Pepper",
-    "category": "Pirates"
-  },
-  "1237654249882521630": {
-    "name": "Crossbones",
-    "category": "Pirates"
-  },
-  "1237654645846048860": {
-    "name": "Cannon Fire",
-    "category": "Pirates"
-  },
-  "1237654716834644028": {
-    "name": "Helmsman",
-    "category": "Pirates"
-  },
-  "1245087683496116225": {
-    "name": "Joystick",
-    "category": "Arcade"
-  },
-  "1245087740928720977": {
-    "name": "Clyde Invaders",
-    "category": "Arcade"
-  },
-  "1245087875209367623": {
-    "name": "Pipedream",
-    "category": "Arcade"
-  },
-  "1245087928992927764": {
-    "name": "Hot Shot",
-    "category": "Arcade"
-  },
-  "1245087983065890858": {
-    "name": "Mallow Jump",
-    "category": "Arcade"
-  },
-  "1245088043732308058": {
-    "name": "Slither ‘n’ Snack",
-    "category": "Arcade"
-  },
-  "1252404748397707324": {
-    "name": "Chillet",
-    "category": "Palworld"
-  },
-  "1252404755473629275": {
-    "name": "Pal Sphere",
-    "category": "Palworld"
-  },
-  "1252404762767523881": {
-    "name": "Cattiva",
-    "category": "Palworld"
-  },
-  "1252405001477816440": {
-    "name": "Lamball",
-    "category": "Palworld"
-  },
-  "1252405006838136862": {
-    "name": "Depresso",
-    "category": "Palworld"
-  },
-  "1252405012915683388": {
-    "name": "Selyne",
-    "category": "Palworld"
-  },
-  "1253712887856238712": {
-    "name": "Fortnite Victory Crown",
-    "category": "Quests"
-  },
-  "1262457693965258874": {
-    "name": "Freezer Bunny Lovebug",
-    "category": "Quests"
-  },
-  "1262473048876122112": {
-    "name": "Wingman Boba",
-    "category": "Quests"
-  },
-  "1262518692248420434": {
-    "name": "Los Santos",
-    "category": "Quests"
-  },
-  "1278392092258734091": {
-    "name": "Hailey",
-    "category": "Quests"
-  },
-  "1280648686749352007": {
-    "name": "Bunny",
-    "category": "Quests"
-  },
-  "1262491137386614813": {
-    "name": "SpongeBob",
-    "category": "SpongeBob"
-  },
-  "1262491137394868306": {
-    "name": "Imagination",
-    "category": "SpongeBob"
-  },
-  "1262491137394868309": {
-    "name": "Patrick Star",
-    "category": "SpongeBob"
-  },
-  "1262491137394868312": {
-    "name": "Flower Clouds",
-    "category": "SpongeBob"
-  },
-  "1262491690900656259": {
-    "name": "Gary the Snail",
-    "category": "SpongeBob"
-  },
-  "1262491690900656262": {
-    "name": "Sandy Cheeks",
-    "category": "SpongeBob"
-  },
-  "1262491690900656265": {
-    "name": "MuscleBob",
-    "category": "SpongeBob"
-  },
-  "1256321669426053193": {
-    "name": "Midnight Sorceress",
-    "category": "Dark Fantasy"
-  },
-  "1256321669426053196": {
-    "name": "Malefic Crown",
-    "category": "Dark Fantasy"
-  },
-  "1256321669426053199": {
-    "name": "Death’s Edge",
-    "category": "Dark Fantasy"
-  },
-  "1256321669467865089": {
-    "name": "Spirit Embers",
-    "category": "Dark Fantasy"
-  },
-  "1256321669467865092": {
-    "name": "Eldritch Ring",
-    "category": "Dark Fantasy"
-  },
-  "1256321669467865095": {
-    "name": "Arcane Sigil",
-    "category": "Dark Fantasy"
-  },
-  "1271174186487906394": {
-    "name": "Kabuto",
-    "category": "Dojo"
-  },
-  "1271174271301062766": {
-    "name": "Oni Mask",
-    "category": "Dojo"
-  },
-  "1271174348392235080": {
-    "name": "Straw Hat",
-    "category": "Dojo"
-  },
-  "1271174676797853838": {
-    "name": "Sakura Ink",
-    "category": "Dojo"
-  },
-  "1271174759656456224": {
-    "name": "Sakura Warrior",
-    "category": "Dojo"
-  },
-  "1271174836625870909": {
-    "name": "Shuriken’s Mark",
-    "category": "Dojo"
-  },
-  "1277733174788493373": {
-    "name": "Sakura",
-    "category": "Dojo"
-  },
-  "1277733174809464914": {
-    "name": "Pink Sakura",
-    "category": "Dojo"
-  },
-  "1277733174830436365": {
-    "name": "Ukon Sakura",
-    "category": "Dojo"
-  },
-  "1277733174851407944": {
-    "name": "Gyoiko Sakura",
-    "category": "Dojo"
-  },
-  "1277733174872379533": {
-    "name": "Angry Frog",
-    "category": "Miscellaneous"
-  },
-  "1277733174893351075": {
-    "name": "Derpy Frog",
-    "category": "Miscellaneous"
+  "Anime": {
+    "1144308439720394945": "Angry",
+    "1212569455880699944": "Cat Ears",
+    "1212570617404981348": "Dismay",
+    "1212570367017885737": "Heartbloom",
+    "1144307957425778780": "In Love",
+    "1212581413958979634": "In Tears",
+    "1212569932391387137": "Ki Energy",
+    "1154896010255015996": "Radiating Energy",
+    "1212581170823561236": "Rage",
+    "1144308196723408959": "Shocked",
+    "1144305233707671574": "Soul Leaving Body",
+    "1144307629225672847": "Starry-Eyed",
+    "1144307257807491095": "Sweat Drops",
+    "1174460891727663244": "Shocked"
+  },
+  "Arcade": {
+    "1245087740928720977": "Clyde Invaders",
+    "1245087928992927764": "Hot Shot",
+    "1245087683496116225": "Joystick",
+    "1245087983065890858": "Mallow Jump",
+    "1245087875209367623": "Pipedream",
+    "1245088043732308058": "Slither ‘n’ Snack"
+  },
+  "Breakfast": {
+    "1144057249392771146": "Blueberry Jam",
+    "1144057486203158561": "Doughnut",
+    "1144057023726628946": "Fried Egg",
+    "1144056631374647459": "Morning Coffee",
+    "1144057737475534890": "Pancakes",
+    "1184292703937253386": "Toast"
+  },
+  "Cyberpunk": {
+    "1197344413718949938": "Cybernetic",
+    "1197344598675165204": "Digital Sunrise",
+    "1197344345783808161": "Glitch",
+    "1197344653515690054": "Implant"
+  },
+  "DISXCORE": {
+    "1144058522808614924": "DISXCORE Headset",
+    "1144058844004233370": "Futuristic UI",
+    "1144059132517826602": "Smoke"
+  },
+  "Dark Fantasy": {
+    "1256321669467865095": "Arcane Sigil",
+    "1256321669426053199": "Death’s Edge",
+    "1256321669467865092": "Eldritch Ring",
+    "1256321669426053196": "Malefic Crown",
+    "1256321669426053193": "Midnight Sorceress",
+    "1256321669467865089": "Spirit Embers"
+  },
+  "Dojo": {
+    "1271174186487906394": "Kabuto",
+    "1271174271301062766": "Oni Mask",
+    "1271174676797853838": "Sakura Ink",
+    "1271174759656456224": "Sakura Warrior",
+    "1271174836625870909": "Shuriken’s Mark",
+    "1271174348392235080": "Straw Hat"
+  },
+  "Elements": {
+    "1207047813888872518": "Air",
+    "1207048659666079814": "Balance",
+    "1207048053006139492": "Earth",
+    "1207047386778697828": "Fire",
+    "1207048292551368745": "Lightning",
+    "1207047673673420860": "Water"
+  },
+  "Fall": {
+    "1157409074422481024": "Autumn Leaves",
+    "1157409074422481021": "Fox Hat",
+    "1157457289872146472": "Frog Hat",
+    "1157409869448618017": "Pumpkin Spice",
+    "1282820582295208107": "Chestnut Fox Hat",
+    "1282820582316183716": "Snow Fox Hat",
+    "1282820582357995644": "Scarlet Leaves",
+    "1282820582378963086": "Woodland Leaves"
+  },
+  "Fantasy": {
+    "1144049316009353339": "Defensive Shield",
+    "1144046002110738635": "Fairy Sprites",
+    "1144005849740742707": "Flaming Sword",
+    "1144048977138946231": "Glowing Runes",
+    "1144007738859470929": "Magical Potion",
+    "1144049603109470371": "Skull Medallion",
+    "1144049924397334652": "Treasure and Key",
+    "1144048390594908213": "Wizard’s Staff"
+  },
+  "Feelin’ Retro": {
+    "1237649967288422430": "Feelin’ Awe",
+    "1237650125090983968": "Feelin’ Nervous",
+    "1237650049018892299": "Feelin’ Panic",
+    "1237650202391744522": "Feelin’ Scrumptious"
+  },
+  "Galaxy": {
+    "1232072861636755466": "Astronaut Helmet",
+    "1232071159860822117": "Black Hole",
+    "1232071714909847682": "Constellations",
+    "1232072123950956635": "Solar Orbit",
+    "1232071069268049920": "Stardust",
+    "1232072522690854964": "UFO"
+  },
+  "Halloween": {
+    "1157411685687115859": "Ghosts",
+    "1157411984371880119": "Graveyard Cat",
+    "1157412388509864069": "Jack-o’-lantern",
+    "1157412779335090268": "Minions"
+  },
+  "Lo-Fi Vibes": {
+    "1228246415449264168": "Chromawave",
+    "1228251189276184618": "Cosy Cat",
+    "1228252061171449876": "Cosy Headphones",
+    "1228252237407588382": "Doodling",
+    "1228251373158793251": "Oasis",
+    "1228251862709567508": "Rainy Mood"
+  },
+  "Lunar New Year": {
+    "1202073979167461406": "Dragon’s Smile",
+    "1202073087265476648": "Fan Flourish",
+    "1202073807658164295": "Firecrackers",
+    "1202074104945971311": "Koi Pond",
+    "1202445980377817179": "Lucky Envelopes",
+    "1202073907918798848": "Lunar Lanterns"
+  },
+  "April Fools Day": {
+    "1277733174874571923": "Clown"
+  },
+  "Monsters": {
+    "1179493515038818330": "Beamchop",
+    "1179493515038818333": "Chewbert",
+    "1179493515076579370": "Chuck",
+    "1184585205252628560": "Doodlezard",
+    "1179493515118514193": "Gawblehop",
+    "1179493515118514190": "Glop",
+    "1179493515076579376": "Stinkums",
+    "1179493515118514187": "Winkle"
+  },
+  "Palworld": {
+    "1252404762767523881": "Cattiva",
+    "1252404748397707324": "Chillet",
+    "1252405006838136862": "Depresso",
+    "1252405001477816440": "Lamball",
+    "1252404755473629275": "Pal Sphere",
+    "1252405012915683388": "Selyne"
+  },
+  "Pirates": {
+    "1237654645846048860": "Cannon Fire",
+    "1237654249882521630": "Crossbones",
+    "1237654166063808542": "Good Ol’ Pepper",
+    "1237654716834644028": "Helmsman",
+    "1237653984555044874": "Pirate Captain",
+    "1237654058370859098": "Scallywag"
+  },
+  "Quests": {
+    "1280648686749352007": "Bunny",
+    "1253712887856238712": "Fortnite Victory Crown",
+    "1262457693965258874": "Freezer Bunny Lovebug",
+    "1278392092258734091": "Hailey",
+    "1262518692248420434": "Los Santos",
+    "1280648686749352003": "Steet Fighter 6 Battle Field",
+    "1280648686736638003": "Torgal Puppy",
+    "1262473048876122112": "Wingman Boba",
+    "1286046055498252319": "Wolf Morph"
+  },
+  "SpongeBob": {
+    "1262491137394868312": "Flower Clouds",
+    "1262491690900656259": "Gary the Snail",
+    "1262491137394868306": "Imagination",
+    "1262491690900656265": "MuscleBob",
+    "1262491137394868309": "Patrick Star",
+    "1262491690900656262": "Sandy Cheeks",
+    "1262491137386614813": "SpongeBob"
+  },
+  "Springtoons": {
+    "1217626041456001146": "Butterflies",
+    "1217625430320742551": "Dandelion Duo",
+    "1217624823656611952": "Honeyblossom",
+    "1217625725092233236": "Hugh the Rainbow",
+    "1217625936015392890": "Strawberry Vine",
+    "1217626222851391529": "The Petal Pack"
+  },
+  "VALORANT Champions": {
+    "1220513979898793994": "A Hint of Clove",
+    "1220514050551709787": "Blade Storm",
+    "1266160780940939295": "Cypher Neural Theft",
+    "1220513996889919548": "FRAG OUT",
+    "1220513986051837952": "Omen’s Cowl",
+    "1220513991449907280": "Reyna’s Leer",
+    "1274070185090879567": "VALORANT Champions 2024",
+    "1266160781008044135": "Viper Poison Cloud",
+    "1266160780961906688": "Yoru Dimensional Drift"
+  },
+  "Winter": {
+    "1174460802946834503": "Fairy Lights",
+    "1174459501873745940": "Fresh Pine",
+    "1174459438128713809": "New Year",
+    "1184292714846621768": "Snow Globe"
+  },
+  "Spooky Night": {
+    "1287835633506844713": "Spooky Cat Ears",
+    "1287835633532010508": "Spooky Cat Ears (Midnight)",
+    "1287835633552982089": "Candlelight",
+    "1287835633578020924": "Crimson Candlelight",
+    "1287835633607507978": "Dark Candlelight",
+    "1287835633636868117": "Dark Hood",
+    "1287835633661907076": "Crimson Hood",
+    "1287835633695588352": "Plum Witch Hat",
+    "1287835633720627231": "Midnight Witch Hat",
+    "1287835633749987360": "Zombie Food",
+    "1287835633779474564": "Zombie Food (Purple)",
+    "1287835633808707614": "Bloodthirsty",
+    "1287835633834000506": "Bloodthirsty (Green)",
+    "1287835633859039285": "Bloodthirsty (Gold)"
+  },
+  "Street Fighter 6": {
+    "1285465421046087690": "Ryu",
+    "1285465421067059250": "Chun-Li",
+    "1285465421088030801": "Ken",
+    "1285465421113196617": "Akuma",
+    "1285465421155139634": "Cammy",
+    "1285465421184499762": "Guile",
+    "1285465421205471303": "Juri",
+    "1285465421230637126": "M. Bison"
+  },
+  "Autumn Equinox": {
+    "1282816431863500920": "Twilight Chrysanthemums",
+    "1286504131342766130": "Morning Chrysanthemums",
+    "1282816431888662589": "Dusk and Dawn",
+    "1282816431913832489": "Floral Harmony",
+    "1286504131409874984": "Floral Harmony (Sunburst)",
+    "1282816431934803999": "Autumn’s Arbour",
+    "1286504131447623713": "Autumn’s Arbour (Aurora)",
+    "1282816431955775569": "Autumn Crown",
+    "1282816431976747028": "Faces of the Moon"
+  },
+  "The Vault": {
+    "1277733174872379533": "Angry Frog",
+    "1277733174998208613": "Burnt Toast",
+    "1144057023726628946": "Fried Egg",
+    "1277733175040151613": "Goblin Stinkums",
+    "1277733174939484190": "Green Fried Egg",
+    "1277733174851407944": "Gyoiko Sakura",
+    "1144056631374647459": "Morning Coffee",
+    "1277733174809464914": "Pink Sakura",
+    "1277733174788493373": "Sakura",
+    "1277733174893351075": "Derpy Frog",
+    "1179493515076579376": "Stinkums",
+    "1184292703937253386": "Toast",
+    "1277733174830436365": "Ukon Sakura"
   }
 }

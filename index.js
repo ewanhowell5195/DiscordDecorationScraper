@@ -22,20 +22,17 @@ const categories = await fetch("https://discord.com/api/v9/collectibles-categori
 }).then(e => e.json())
 
 for (const category of categories) {
+  if (category.name === "Autumn") {
+    category.name = "Fall"
+  }
   for (const product of category.products) {
     for (const item of product.items) {
       if (item.type !== 0) continue
       console.log(`Avatar: ${category.name + " - " + product.name}`)
-      const match = Object.entries(avatars).find(e => e[1].category === category.name && e[1].name === product.name)
-      if (match) {
-        item.id = match[0]
-      }
+      avatars[category.name] ??= {}
       const avatar = await fetch(`https://cdn.discordapp.com/avatar-decoration-presets/${item.asset}.png`).then(e => e.arrayBuffer())
       fs.writeFileSync(`decorations/avatar/${item.id}.png`, Buffer.from(avatar))
-      avatars[item.id] = {
-        name: product.name,
-        category: category.name
-      }
+      avatars[category.name][item.id] = product.name
     }
   }
 }

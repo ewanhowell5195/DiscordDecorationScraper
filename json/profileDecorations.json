@@ -136,7 +136,7 @@
     ]
   },
   "1139323102753468546": {
-    "name": "ghost-skull",
+    "name": "dark-omens",
     "title": "Dark Omens",
     "effects": [
       "intro",
@@ -160,7 +160,7 @@
     ]
   },
   "1159277016571449404": {
-    "name": "leaves",
+    "name": "fall-foliage",
     "title": "Autumn Foliage",
     "effects": [
       "intro-branch",
@@ -170,12 +170,13 @@
     "extra": [
       "static",
       "thumbnail",
-      "reducedMotion"
+      "reducedMotion",
+      "reduced_motion"
     ]
   },
   "1159275733764550728": {
     "name": "rain",
-    "title": "Lilypad Life",
+    "title": "Lily Pad Life",
     "effects": [
       "intro",
       "loop"
@@ -908,6 +909,226 @@
       "static",
       "thumbnail",
       "reducedMotion"
+    ]
+  },
+  "1285681070196396176": {
+    "name": "rain",
+    "title": "Midnight Lily Pad Life",
+    "effects": [
+      "intro2",
+      "loop2"
+    ],
+    "extra": [
+      "thumbnail2",
+      "reducedMotion2"
+    ]
+  },
+  "1285681070196396178": {
+    "name": "rain",
+    "title": "Muddy Lily Pad Life",
+    "effects": [
+      "intro3",
+      "loop3"
+    ],
+    "extra": [
+      "thumbnail3",
+      "reducedMotion3"
+    ]
+  },
+  "1282816431997718528": {
+    "name": "twilight-grove",
+    "title": "Twilight Grove",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "static"
+    ]
+  },
+  "1285636325059465216": {
+    "name": "sunrise-grove",
+    "title": "Sunrise Grove",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "static"
+    ]
+  },
+  "1282816432018690079": {
+    "name": "autumn-equinox",
+    "title": "Autumn Equinox",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "static"
+    ]
+  },
+  "1282816432039661669": {
+    "name": "sun-and-moon",
+    "title": "Sun and Moon",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "static"
+    ]
+  },
+  "1282820582421041224": {
+    "name": "scarlet-fall-foliage",
+    "title": "Scarlet Autumn Foliage",
+    "effects": [
+      "intro-branch",
+      "intro-leaves",
+      "loop"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1282820582441746544": {
+    "name": "woodland-fall-foliage",
+    "title": "Woodland Autumn Foliage",
+    "effects": [
+      "intro-branch",
+      "intro-leaves",
+      "loop"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1285465421251608638": {
+    "name": "street-fighter-6",
+    "title": "Street Fighter 6",
+    "effects": [
+      "graffiti_intro",
+      "graffiti_idle"
+    ],
+    "extra": [
+      "graffiti_thumbnail",
+      "graffiti_reduced_motion"
+    ]
+  },
+  "1285465421276905582": {
+    "name": "akuma-wrath",
+    "title": "Akuma’s Wrath",
+    "effects": [
+      "akuma_intro",
+      "akuma_idle"
+    ],
+    "extra": [
+      "akuma_thumbnail",
+      "akuma_reduced_motion"
+    ]
+  },
+  "1285465421297745961": {
+    "name": "bisons-return",
+    "title": "M. Bison’s Return",
+    "effects": [
+      "bison_intro",
+      "bison_idle"
+    ],
+    "extra": [
+      "bison_thumbnail",
+      "bison_reduced_motion"
+    ]
+  },
+  "1285465421322911765": {
+    "name": "classic-street-fighter",
+    "title": "Classic Street Fighter",
+    "effects": [
+      "continue_intro_[1-2]",
+      "continue_idle"
+    ],
+    "extra": [
+      "continue_thumbnail",
+      "continue_reduced_motion"
+    ]
+  },
+  "1287835633888526448": {
+    "name": "blazing-ghoulish-graffiti",
+    "title": "Blazing Ghoulish Graffiti",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1287835633938858065": {
+    "name": "neon-ghoulish-graffiti",
+    "title": "Neon Ghoulish Graffiti",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1287835633964023910": {
+    "name": "infernal-dark-omens",
+    "title": "Infernal Dark Omens",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1287835633997451387": {
+    "name": "midnight-dark-omens",
+    "title": "Midnight Dark Omens",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1287835634026811414": {
+    "name": "bubblegum-zombie-slime",
+    "title": "Bubble Gum Zombie Slime",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1287835634073075726": {
+    "name": "midnight-zombie-slime",
+    "title": "Midnight Zombie Slime",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
     ]
   }
 }
