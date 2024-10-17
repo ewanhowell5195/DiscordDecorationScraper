@@ -1130,5 +1130,53 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1293373563398520832": {
+    "name": "d20",
+    "title": "D20 Roll",
+    "effects": [
+      "intro_[1-2]",
+      "idle_[1-2]"
+    ],
+    "extra": [
+      "thumbnail_success",
+      "reduced_motion_success"
+    ]
+  },
+  "1293373563423686676": {
+    "name": "red_dragon",
+    "title": "Red Dragon",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1293373563448852613": {
+    "name": "beholder",
+    "title": "Beholder",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1293373563478212608": {
+    "name": "mimic",
+    "title": "Mimic",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
