@@ -1178,5 +1178,128 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1298033986743828531": {
+    "name": "spirit-of-the-kitsune",
+    "title": "Spirit of the Kitsune",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1298033986769256479": {
+    "name": "flutter-and-frolic",
+    "title": "Flutter and Frolic",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1298033986794422313": {
+    "name": "mermaid-whisperer",
+    "title": "Mermaid Whisperer",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1303490165225816125": {
+    "name": "jinx-and-powpow",
+    "title": "Jinx and Pow-Pow",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1303490165246787706": {
+    "name": "ekkos-aeroglider-stunts",
+    "title": "Ekko's Aeroglider Stunts",
+    "effects": [
+      "intro",
+      "idle_1",
+      "idle_2"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1303490165267759214": {
+    "name": "paint-the-town-blue",
+    "title": "Paint the Town Blue",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1306752744312541315": {
+    "name": "arcane-epiphany",
+    "title": "Arcane Epiphany",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1306330663154225194": {
+    "name": "plushie-party",
+    "title": "Plushie Party",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1306330663175196753": {
+    "name": "bubble-tea-bliss",
+    "title": "Bubble Tea Bliss",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1306330663200362527": {
+    "name": "kawaii-mode",
+    "title": "Kawaii Mode",
+    "effects": [
+      "intro",
+      "loop_mouseright",
+      "loop_mouseleft"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }

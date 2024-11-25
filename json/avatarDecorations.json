@@ -159,7 +159,9 @@
     "1280648686749352003": "Steet Fighter 6 Battle Field",
     "1280648686736638003": "Torgal Puppy",
     "1262473048876122112": "Wingman Boba",
-    "1286046055498252319": "Wolf Morph"
+    "1286046055498252319": "Wolf Morph",
+    "1309270800099971122": "Batarang",
+    "1305905202578325535": "Wallach IX Spaceport"
   },
   "SpongeBob": {
     "1262491137394868312": "Flower Clouds",
@@ -255,5 +257,33 @@
     "1293373563318829157": "Owlbear Cub",
     "1293373563343995040": "Snowy Owlbear Cub",
     "1293373563373355008": "Baby Displacer Beast"
+  },
+  "Kawaii Mode": {
+    "1306330662957092976": "Cat Ear Headset",
+    "1306330662982258758": "Bubble Tea",
+    "1306330663007424512": "Bunny Zzzs",
+    "1306330663028396144": "Sproutling",
+    "1306330663053561909": "Bloomling",
+    "1306330663082922085": "Neon Nibbles",
+    "1306330663108087878": "UwU XP",
+    "1306330663133122661": "Hex Lights"
+  },
+  "Arcane": {
+    "1306752744274792448": "The Anomaly",
+    "1306752744295497789": "The Mark",
+    "1303490165091598386": "The Monster You Created",
+    "1303490165116764170": "The Atlas Gauntlets",
+    "1303490165141929994": "Flame Chompers",
+    "1303490165162901605": "FISHBONES!",
+    "1303490165183873075": "The Hexcore",
+    "1303490165209301013": "Powered by Shimmer"
+  },
+  "Mythical Creatures": {
+    "1298033986588639306": "Kitsune",
+    "1298033986609872989": "Unicorn",
+    "1298033986635038770": "Phoenix",
+    "1298033986660204585": "Dancing Fairies",
+    "1298033986685108358": "Crystal Elk",
+    "1298033986710536242": "Mermaid Serenade"
   }
 }
