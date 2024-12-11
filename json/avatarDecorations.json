@@ -198,7 +198,19 @@
     "1174460802946834503": "Fairy Lights",
     "1174459501873745940": "Fresh Pine",
     "1174459438128713809": "New Year",
-    "1184292714846621768": "Snow Globe"
+    "1184292714846621768": "Snow Globe",
+    "1314020996348641370": "Aurora",
+    "1314020996378001438": "Polar Bear Hat",
+    "1314020996453236806": "String Lights (Aurora)",
+    "1314020996478664774": "String Lights (Ember)",
+    "1314020996508024832": "String Lights (Dusk)",
+    "1314020996533190808": "Fairy Lights (Mix)",
+    "1314020996591910912": "Snow Globe (Wood)",
+    "1314020996617076848": "Snowglobe (Pink)",
+    "1314020996650369025": "Snow Globe (Blue)",
+    "1314020996684185611": "Snowglobe (Green)",
+    "1314020996709351464": "Fresh Pine (Cinnamon)",
+    "1314020996738711583": "Fresh Pine (Ribbon)"
   },
   "Spooky Night": {
     "1287835633506844713": "Spooky Cat Ears",
@@ -288,5 +300,14 @@
     "1298033986660204585": "Dancing Fairies",
     "1298033986685108358": "Crystal Elk",
     "1298033986710536242": "Mermaid Serenade"
+  },
+  "Lofi Girl": {
+    "1313682954589044736": "Lofi Girl Outfit",
+    "1313683034377031680": "Playful Lofi Cat",
+    "1309668861691433070": "Sleepy ChilledCow",
+    "1313683086050988114": "Study Session",
+    "1313683136986484747": "Group Hug",
+    "1309668861808869447": "Cozy Post-It",
+    "1309668861779513414": "Cozy Post-It (Festive)"
   }
 }

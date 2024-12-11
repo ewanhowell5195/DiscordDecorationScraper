@@ -1230,7 +1230,7 @@
   },
   "1303490165246787706": {
     "name": "ekkos-aeroglider-stunts",
-    "title": "Ekko's Aeroglider Stunts",
+    "title": "Ekko’s Aeroglider Stunts",
     "effects": [
       "intro",
       "idle_1",
@@ -1298,6 +1298,188 @@
       "loop_mouseleft"
     ],
     "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1309668861838233681": {
+    "name": "lofi-girl-snow-angel",
+    "title": "Lofi Girl Snow Angel",
+    "effects": [
+      "intro",
+      "idle_snow",
+      "idle_star"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1309668861863399565": {
+    "name": "lofi-girl-study-break",
+    "title": "Lofi Girl Study Break",
+    "effects": [
+      "intro",
+      "idle_cattail",
+      "idle_light"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1309668861892759642": {
+    "name": "lofi-cat-zoomies-festive",
+    "title": "Lofi Cat Zoomies (Festive)",
+    "effects": [
+      "intro_lights",
+      "intro_pocky",
+      "intro_snow",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1309668861922119762": {
+    "name": "lofi-cat-zoomies",
+    "title": "Lofi Cat Zoomies",
+    "effects": [
+      "intro_lights",
+      "intro_pocky",
+      "intro_snow",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1314020996856152104": {
+    "name": "aurora_dreams",
+    "title": "Aurora Dreams",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1314020996881318009": {
+    "name": "penguins_on_ice",
+    "title": "Penguins on Ice",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1314020996952621138": {
+    "name": "deck_the_halls_aurora",
+    "title": "Deck the Halls (Aurora)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1314020996981981185": {
+    "name": "deck_the_halls_dusk",
+    "title": "Deck the Halls (Dusk)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1314020997011341372": {
+    "name": "deck_the_halls_ember",
+    "title": "Deck the Halls (Ember)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1314020997036507268": {
+    "name": "deck_the_halls_mix",
+    "title": "Deck the Halls (Mix)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1314020997099421796": {
+    "name": "snowy_shenanigans_giddy",
+    "title": "Snowy Shenanigans (Giddy)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1314020997132714015": {
+    "name": "snowy_shenanigans_jolly",
+    "title": "Snowy Shenanigans (Jolly)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1314020997158141996": {
+    "name": "snowy_shenanigans_smooch",
+    "title": "Snowy Shenanigans (Smooch)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1314020997187239996": {
+    "name": "snowy_shenanigans_suave",
+    "title": "Snowy Shenanigans (Suave)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
       "thumbnail",
       "reduced_motion"
     ]
