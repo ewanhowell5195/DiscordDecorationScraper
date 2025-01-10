@@ -24,6 +24,8 @@ const categories = await fetch("https://discord.com/api/v9/collectibles-categori
 for (const category of categories) {
   if (category.name === "Autumn") {
     category.name = "Fall"
+  } else if (category.name === "Winter Wonderland") {
+    category.name = "Winter"
   }
   for (const product of category.products) {
     for (const item of product.items) {

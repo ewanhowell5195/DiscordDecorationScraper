@@ -83,7 +83,20 @@
     "1144007738859470929": "Magical Potion",
     "1144049603109470371": "Skull Medallion",
     "1144049924397334652": "Treasure and Key",
-    "1144048390594908213": "Wizard’s Staff"
+    "1144048390594908213": "Wizard’s Staff",
+    "1324454240797593640": "Magic Portal (Purple)",
+    "1324454240818565292": "Magic Portal (Blue)",
+    "1324454240852119642": "Fairy Sprites (Pink)",
+    "1324454240877285548": "Fairy Sprites (Blue)",
+    "1324454240906641438": "Crystal Ball (Purple)",
+    "1324454240927617074": "Crystal Ball (Blue)",
+    "1324454240952782939": "Wizard Hat (Purple)",
+    "1324454240973754560": "Wizard Hat (Blue)",
+    "1324454240998920253": "Magical Wand (Purple)",
+    "1324454241019891836": "Magical Wand (Green)",
+    "1324454241045053521": "Mooncaps (Pink)",
+    "1324454241066029139": "Mooncaps (Blue)",
+    "1324454241087000746": "Cottage Home"
   },
   "Feelin’ Retro": {
     "1237649967288422430": "Feelin’ Awe",
@@ -167,7 +180,9 @@
     "1315853682235019326": "TGA Controller",
     "1316597786862419988": "Shadow",
     "1319423712474435655": "Rec Room Lightning",
-    "1313309630851448833": "Bush Camper"
+    "1313309630851448833": "Bush Camper",
+    "1326718812279799809": "WINGMAN'S GOT IT",
+    "1325880072972013670": "Jeff the Land Shark"
   },
   "SpongeBob": {
     "1262491137394868312": "Flower Clouds",
@@ -204,14 +219,14 @@
     "1184292714846621768": "Snow Globe",
     "1314020996348641370": "Aurora",
     "1314020996378001438": "Polar Bear Hat",
-    "1314020996453236806": "String Lights (Aurora)",
-    "1314020996478664774": "String Lights (Ember)",
-    "1314020996508024832": "String Lights (Dusk)",
+    "1314020996453236806": "Fairy Lights (Aurora)",
+    "1314020996478664774": "Fairy Lights (Ember)",
+    "1314020996508024832": "Fairy Lights (Dusk)",
     "1314020996533190808": "Fairy Lights (Mix)",
     "1314020996591910912": "Snow Globe (Wood)",
-    "1314020996617076848": "Snowglobe (Pink)",
+    "1314020996617076848": "Snow Globe (Pink)",
     "1314020996650369025": "Snow Globe (Blue)",
-    "1314020996684185611": "Snowglobe (Green)",
+    "1314020996684185611": "Snow Globe (Green)",
     "1314020996709351464": "Fresh Pine (Cinnamon)",
     "1314020996738711583": "Fresh Pine (Ribbon)"
   },

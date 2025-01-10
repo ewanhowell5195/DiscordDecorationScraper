@@ -1483,5 +1483,67 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1324454241112166448": {
+    "name": "enchanted-forest",
+    "title": "Enchanted Forest",
+    "effects": [
+      "intro",
+      "new_idle_bg",
+      "new_idle_fg"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1324454241133138042": {
+    "name": "portal-beyond-purple",
+    "title": "Portal Beyond (Purple)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1324454241191858186": {
+    "name": "portal-beyond-blue",
+    "title": "Portal Beyond (Blue)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1324454241212829817": {
+    "name": "mooncap-forest-pink",
+    "title": "Mooncap Forest (Pink)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1324454241237995630": {
+    "name": "mooncap-forest-blue",
+    "title": "Mooncap Forest (Blue)",
+    "effects": [
+      "intro",
+      "new_idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
