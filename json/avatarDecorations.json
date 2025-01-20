@@ -182,7 +182,8 @@
     "1319423712474435655": "Rec Room Lightning",
     "1313309630851448833": "Bush Camper",
     "1326718812279799809": "WINGMAN'S GOT IT",
-    "1325880072972013670": "Jeff the Land Shark"
+    "1325880072972013670": "Jeff the Land Shark",
+    "1329309467619229797": "Fuchsia Agent"
   },
   "SpongeBob": {
     "1262491137394868312": "Flower Clouds",
@@ -327,5 +328,13 @@
     "1313683136986484747": "Group Hug",
     "1309668861808869447": "Cozy Post-It",
     "1309668861779513414": "Cozy Post-It (Festive)"
+  },
+  "Steampunk": {
+    "1326333074052612216": "Steampunk Cat Ears",
+    "1326333074073583708": "Mech Flora",
+    "1326333074094555267": "Bowler Hat",
+    "1326333074115526808": "Brass Beats",
+    "1326333074144886784": "Timekeeper’s Clock",
+    "1326333074165858405": "Flux Alchemy"
   }
 }

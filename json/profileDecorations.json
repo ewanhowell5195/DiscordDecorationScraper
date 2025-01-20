@@ -1545,5 +1545,41 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1326333074186829864": {
+    "name": "clockwork-butterflies",
+    "title": "Clockwork Butterflies",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1326333074207801344": {
+    "name": "cloud-zeppelin",
+    "title": "Cloud Zeppelin",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1326333074224578702": {
+    "name": "innovators-masterwork",
+    "title": "Innovator’s Masterwork",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
