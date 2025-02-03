@@ -1581,5 +1581,30 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1329611507398610955": {
+    "name": "twist-of-luck",
+    "title": "Twist of Luck",
+    "effects": [
+      "entry",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1329611507419582515": {
+    "name": "koi-garden",
+    "title": "Koi Garden",
+    "effects": [
+      "entry",
+      "idleA",
+      "idleB"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
