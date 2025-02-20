@@ -1606,5 +1606,118 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1333278032932110407": {
+    "name": "fog_of_war",
+    "title": "Fog of War",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1333278032953081928": {
+    "name": "wonder_build",
+    "title": "Wonder Construction",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1333278032982442026": {
+    "name": "science_victory",
+    "title": "Science Victory",
+    "effects": [
+      "intro",
+      "idle_A",
+      "idle_B"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1333866045424799814": {
+    "name": "bearly_afloat",
+    "title": "Bearly Afloat",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1333866045446033550": {
+    "name": "roses_galore_red",
+    "title": "Roses Galore (Red)",
+    "effects": [
+      "intro",
+      "idle_roses",
+      "idle_petals"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1333866045462548621": {
+    "name": "roses_galore_blue",
+    "title": "Roses Galore (Blue)",
+    "effects": [
+      "intro",
+      "idle_roses",
+      "idle_petals"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1333866045483520172": {
+    "name": "heartstrings_theory_red",
+    "title": "Heartstring Theory (Red)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1333866045504491651": {
+    "name": "heartstrings_theory_blue",
+    "title": "Heartstring Theory (Blue)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1336483992391647324": {
+    "name": "ruby_photo_card",
+    "title": "Ruby Photo Card",
+    "effects": [
+      "intro",
+      "idle_ribbon",
+      "idle_sparkles",
+      "idle_heart"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }

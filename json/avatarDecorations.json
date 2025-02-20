@@ -187,7 +187,9 @@
     "1326718812279799809": "WINGMAN'S GOT IT",
     "1325880072972013670": "Jeff the Land Shark",
     "1329309467619229797": "Fuchsia Agent",
-    "1334270711790833776": "Boogie Bomb"
+    "1334270711790833776": "Boogie Bomb",
+    "1338927497860878466": "Exoborne",
+    "1336439189041975316": "Scout"
   },
   "SpongeBob": {
     "1262491137394868312": "Flower Clouds",
@@ -340,5 +342,28 @@
     "1326333074115526808": "Brass Beats",
     "1326333074144886784": "Timekeeper’s Clock",
     "1326333074165858405": "Flux Alchemy"
+  },
+  "Valentines": {
+    "1333866045210890357": "Rose Bearer (Pink)",
+    "1333866045232123997": "Rose Bearer (Blue)",
+    "1333866045252833330": "Angel",
+    "1333866045273804921": "Devil",
+    "1333866045294776461": "Aim for Love",
+    "1333866045315747973": "Lovestruck",
+    "1333866045336719470": "Ring of Roses (Red)",
+    "1333866045361885296": "Ring of Roses (Blue)",
+    "1333866045382856837": "Heartstrings (Red)",
+    "1333866045403828325": "Heartstrings (Blue)"
+  },
+  "JENNIE": {
+    "1336483992374874142": "Ruby Hearts"
+  },
+  "Civilization VII": {
+    "1333278032781115402": "Gold Laurel Wreath",
+    "1333278032802086983": "Golden Hex",
+    "1333278032827252798": "Terrain Tiles",
+    "1333278032848224276": "Hex Tiles",
+    "1333278032869195807": "City Walls",
+    "1333278032911138816": "Next Turn Button"
   }
 }
