@@ -1719,5 +1719,284 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1341506444284919808": {
+    "name": "wishful-beginnings",
+    "title": "Wishful Beginnings",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506444301697024": {
+    "name": "magical-girl-energy",
+    "title": "Magical Girl Energy",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506444322668544": {
+    "name": "close-combat",
+    "title": "Close Combat",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445031505920": {
+    "name": "power-surge-green",
+    "title": "Power Surge (Green)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445044088832": {
+    "name": "power-surge-fuchsia",
+    "title": "Power Surge (Fuchsia)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445056671744": {
+    "name": "shatter-purple",
+    "title": "Shatter (Purple)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445069254656": {
+    "name": "shatter-blue",
+    "title": "Shatter (Blue)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445077643264": {
+    "name": "shuriken-strike-yellow",
+    "title": "Shuriken Strike (Yellow)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445090226176": {
+    "name": "shuriken-strike-blue",
+    "title": "Shuriken Strike (Blue)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445102809088": {
+    "name": "dreamy-pink",
+    "title": "Dreamy (Pink)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445115392000": {
+    "name": "dreamy-green",
+    "title": "Dreamy (Green)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445127974912": {
+    "name": "dreamy-blue",
+    "title": "Dreamy (Blue)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445140557824": {
+    "name": "dreamy-yellow",
+    "title": "Dreamy (Yellow)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445153140736": {
+    "name": "ki-detonate-blue",
+    "title": "Ki Detonate (Blue)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445165723648": {
+    "name": "ki-detonate-yellow",
+    "title": "Ki Detonate (Yellow)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445178306560": {
+    "name": "ki-detonate-green",
+    "title": "Ki Detonate (Green)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445186695168": {
+    "name": "ki-detonate-red",
+    "title": "Ki Detonate (Red)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445199278080": {
+    "name": "sushi-mania-green",
+    "title": "Sushi Mania (Green)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445211860992": {
+    "name": "sushi-mania-blue",
+    "title": "Sushi Mania (Blue)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445224443904": {
+    "name": "sushi-mania-pink",
+    "title": "Sushi Mania (Pink)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341506445237026816": {
+    "name": "sushi-mania-yellow",
+    "title": "Sushi Mania (Yellow)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1341895580380561610": {
+    "name": "magic-girl-blue",
+    "title": "Magic Hearts (Blue)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reducedMotion"
+    ]
+  },
+  "1341895638412955678": {
+    "name": "magic-girl-orange",
+    "title": "Magic Hearts (Gold)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reducedMotion"
+    ]
   }
 }
