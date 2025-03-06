@@ -1998,5 +1998,113 @@
       "thumbnail",
       "reducedMotion"
     ]
+  },
+  "1343751621221285968": {
+    "name": "deep-dive",
+    "title": "Deep Dive",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1343751621238329404": {
+    "name": "starfall-tides",
+    "title": "Starfall Tides",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1343751621254971392": {
+    "name": "starfall-tides-rose",
+    "title": "Starfall Tides (Rose)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1343751621271752814": {
+    "name": "starfall-tides-void",
+    "title": "Starfall Tides (Void)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1343751621288398858": {
+    "name": "starfall-tides-nightshade",
+    "title": "Starfall Tides (Nightshade)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1343751621300977815": {
+    "name": "lava-lamp",
+    "title": "Lava Lamp",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1343751621318021242": {
+    "name": "lava-lamp-pink",
+    "title": "Lava Lamp (Pink)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1343751621334663178": {
+    "name": "lava-lamp-blue",
+    "title": "Lava Lamp (Blue)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1343751621347250260": {
+    "name": "lava-lamp-slime",
+    "title": "Lava Lamp (Slime)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
