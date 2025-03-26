@@ -2106,5 +2106,57 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1346499610889424980": {
+    "name": "karina",
+    "title": "KARINA",
+    "effects": [
+      "intro",
+      "idle",
+      "idle_chrome"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1346499610918781029": {
+    "name": "giselle",
+    "title": "GISELLE",
+    "effects": [
+      "intro",
+      "idle",
+      "idle_chrome"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1346499610939752580": {
+    "name": "winter",
+    "title": "WINTER",
+    "effects": [
+      "intro",
+      "idle",
+      "idle_chrome"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1346499610960724061": {
+    "name": "ningning",
+    "title": "NINGNING",
+    "effects": [
+      "intro",
+      "idle",
+      "idle_chrome"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
