@@ -2158,5 +2158,78 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1352407446433431572": {
+    "name": "nature_is_healing",
+    "title": "Nature Is Healing",
+    "effects": [
+      "intro_grass",
+      "intro_cat",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1352407446458597376": {
+    "name": "nom_kitty_crunch",
+    "title": "Nom Kitty Crunch",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1352407446483763250": {
+    "name": "tumbleweeds",
+    "title": "Tumbleweeds",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1354894010782847179": {
+    "name": "lazy_loaf",
+    "title": "Lazy Loaf",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1354894010803818666": {
+    "name": "capyccino",
+    "title": "Capyccino",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1354894010828722259": {
+    "name": "pancake_pals",
+    "title": "Pancake Pals",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
