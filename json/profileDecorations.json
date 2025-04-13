@@ -2231,5 +2231,53 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1357589632660934656": {
+    "name": "keyboard_cat",
+    "title": "Keyboard Cats",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1357589632673644615": {
+    "name": "f_in_chat_black",
+    "title": "F in Chat (Black)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1357589632690425856": {
+    "name": "f_in_chat_white",
+    "title": "F in Chat (White)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1357589632711397386": {
+    "name": "copium",
+    "title": "Sweet Copium",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
