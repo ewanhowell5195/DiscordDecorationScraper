@@ -14,8 +14,8 @@ function ask(question) {
   })
 }
 
-const userId = await ask("Enter user id: ")
 const decorationName = await ask("Enter decoration name: ")
+const userId = await ask("Enter user id: ")
 
 const token = fs.readFileSync("token.txt", "utf-8").trim()
 
