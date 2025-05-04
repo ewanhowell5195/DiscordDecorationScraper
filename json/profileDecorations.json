@@ -2279,5 +2279,53 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1365410896146333727": {
+    "name": "lightsaber_mastery_blue",
+    "title": "Lightsaber Mastery (Blue)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1365410896167305268": {
+    "name": "lightsaber_mastery_green",
+    "title": "Lightsaber Mastery (Green)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1365410896188538951": {
+    "name": "entering_hyperspace",
+    "title": "Entering Hyperspace",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1365410896209248338": {
+    "name": "darth_vader_arrives",
+    "title": "Darth Vader Arrives",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
