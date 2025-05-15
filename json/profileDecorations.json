@@ -2327,5 +2327,43 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1369434230907605154": {
+    "name": "farming_town",
+    "title": "Farming Town",
+    "effects": [
+      "intro",
+      "idle_top",
+      "idle_bot"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1369434230928576642": {
+    "name": "fishing_village",
+    "title": "Fishing Village",
+    "effects": [
+      "intro",
+      "idle_fish",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1369434230949412884": {
+    "name": "baking_challenge",
+    "title": "Baking Challenge",
+    "effects": [
+      "intro_[1-2]",
+      "idle_[1-2]"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
