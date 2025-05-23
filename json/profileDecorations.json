@@ -2365,5 +2365,41 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1373015260541227128": {
+    "name": "full_cowling",
+    "title": "Full Cowling",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1373015260562198608": {
+    "name": "cluster",
+    "title": "Cluster",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1373015260583170089": {
+    "name": "league_of_villains",
+    "title": "League of Villains",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }

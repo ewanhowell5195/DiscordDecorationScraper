@@ -252,7 +252,9 @@
     "1360316550313283748": "Signal from Tau Ceti",
     "1362863977222115430": "Hackclaw",
     "1366429159961919569": "Friend of Dex",
-    "1369388182927442022": "Fortnite Galactic Battle"
+    "1369388182927442022": "Fortnite Galactic Battle",
+    "1374394443997642803": "Portal Pulse",
+    "1373682603621744720": "Mission: Impossible"
   },
   "SpongeBob": {
     "1262491137394868312": "Flower Clouds",
@@ -506,5 +508,15 @@
     "1369434230844555425": "Hammy (Blue)",
     "1369434230865662103": "Hammy (Pink)",
     "1369434230886498324": "Hammy (Green)"
+  },
+  "My Hero Academia": {
+    "1373015260369260656": "Izuku Midoriya",
+    "1373015260394426410": "Katsuki Bakugo",
+    "1373015260419592293": "Ochaco Uraraka",
+    "1373015260440690850": "Shoto Todoroki",
+    "1373015260457341148": "Endeavor",
+    "1373015260478312590": "Hawks",
+    "1373015260499284038": "All Might",
+    "1373015260520255588": "Tomura Shigaraki"
   }
 }
