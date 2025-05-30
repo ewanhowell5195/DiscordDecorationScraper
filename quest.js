@@ -17,11 +17,11 @@ function ask(question) {
 const decorationName = await ask("Enter decoration name: ")
 const userId = await ask("Enter user id: ")
 
-const token = fs.readFileSync("token.txt", "utf-8").trim()
+const token = fs.readFileSync("bot_token.txt", "utf-8").trim()
 
 const res = await fetch(`https://discord.com/api/v10/users/${userId}`, {
   headers: {
-    "Authorization": token
+    "Authorization": `Bot ${token}`
   }
 })
 const userData = await res.json()
