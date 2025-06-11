@@ -2401,5 +2401,77 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1351351542392815616": {
+    "name": "orbs",
+    "title": "Magic Mists",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1379220459110928476": {
+    "name": "angelic_intervention",
+    "title": "Angelic Intervention",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1379220459132026900": {
+    "name": "fae_trickery",
+    "title": "Fae Trickery",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1379220459152998450": {
+    "name": "zombie_apocalypse",
+    "title": "Zombie Apocalypse",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1379220459173969992": {
+    "name": "dragons_approach",
+    "title": "Dragon's Approach",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1379220459194941550": {
+    "name": "primal_hunger",
+    "title": "Primal Hunger",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
