@@ -2473,5 +2473,41 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1366494385688285194": {
+    "name": "bonsai_eternity",
+    "title": "Bonsai Eternity",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1366494385709256736": {
+    "name": "shadow_strike",
+    "title": "Shadow Strike",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1366494385730228345": {
+    "name": "zen_garden",
+    "title": "Zen Garden",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
