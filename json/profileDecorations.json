@@ -2509,5 +2509,44 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1385050947931078696": {
+    "name": "lots_of_bubbles",
+    "title": "Lots of bubbles",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1385050947947856073": {
+    "name": "firefly_meadow",
+    "title": "Firefly Meadow",
+    "effects": [
+      "intro",
+      "idle_0",
+      "idle_1",
+      "idle_2"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1385050947968827573": {
+    "name": "the_same_duck",
+    "title": "the same duck",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
