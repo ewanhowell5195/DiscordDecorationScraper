@@ -2548,5 +2548,101 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1387888352824528988": {
+    "name": "join_the_alliance",
+    "title": "Join the Alliance",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1387888352849694730": {
+    "name": "duchess_astro",
+    "title": "Duchess Astro",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1387888352799363243": {
+    "name": "critical_damage",
+    "title": "Critical Damage",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1387888352774197370": {
+    "name": "titan_vs_astro",
+    "title": "Titan vs Astro",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1387888352874860695": {
+    "name": "skibidi_toilets",
+    "title": "Skibidi Toilets",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1394404301459427449": {
+    "name": "spirit_blossom_springs",
+    "title": "Spirit Blossom Springs",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1394404301434261574": {
+    "name": "yunaras_aion_erna",
+    "title": "Yunara’s Aion Er’na",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1394404301480399019": {
+    "name": "ahris_floating_ducks",
+    "title": "Ahri’s Floating Ducks",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
