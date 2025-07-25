@@ -2644,5 +2644,41 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1395905165965393972": {
+    "name": "silver_surfer",
+    "title": "Silver Surfer",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1395905165936033873": {
+    "name": "the_fantastic_four",
+    "title": "The Fantastic Four",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1395905165911134290": {
+    "name": "galactus",
+    "title": "Galactus",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
