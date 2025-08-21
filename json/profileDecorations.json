@@ -2680,5 +2680,143 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1400163655542378736": {
+    "name": "gomah",
+    "title": "Gomah",
+    "effects": [
+      "intro",
+      "idle_gomah"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1400163655575666809": {
+    "name": "mini_goku",
+    "title": "Mini Goku",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1400163655605027057": {
+    "name": "mini_vegeta",
+    "title": "Mini Vegeta",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1400163655634387034": {
+    "name": "mini_piccolo",
+    "title": "Mini Piccolo",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1402472280679907388": {
+    "name": "hehe_so_random_xp",
+    "title": "hehe so random xP",
+    "effects": [
+      "intro",
+      "idle_01",
+      "idle_02"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1402472280696684634": {
+    "name": "rawr_xd_splash",
+    "title": "Rawr xD Splash",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1402472280721850508": {
+    "name": "kawaii_clouds_blue",
+    "title": "Kawaii Clouds (Blue)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1402472280738631760": {
+    "name": "kawaii_clouds",
+    "title": "Kawaii Clouds",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1404558257242116146": {
+    "name": "spring_rain",
+    "title": "Spring Rain",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1404558257263087826": {
+    "name": "butterfly_haven",
+    "title": "Butterfly Haven",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1404558257288253632": {
+    "name": "wind_chime",
+    "title": "Wind Chime",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }

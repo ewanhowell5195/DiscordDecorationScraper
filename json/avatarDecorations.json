@@ -270,7 +270,13 @@
     "1387485784419995649": "Moomoo",
     "1390436532988674091": "Mecha BREAK",
     "1397600396066951188": "Chomp Chomp",
-    "1395429488040476693": "Call of Duty: Mobile"
+    "1395429488040476693": "Call of Duty: Mobile",
+    "1399543537032237066": "The Entity",
+    "1398375040474681455": "Descendant",
+    "1403406899889831998": "BF Soldier",
+    "1403130542341357589": "Bing Bong",
+    "1403496300900519989": "Wendy's x Wednesday",
+    "1404559955960270922": "Cow Glider"
   },
   "SpongeBob": {
     "1262491137394868312": "Flower Clouds",
@@ -588,5 +594,38 @@
     "1395905165831176344": "Human Torch",
     "1395905165856342107": "Silver Surfer",
     "1395905165885702236": "The Fantastic Four"
+  },
+  "Dragon Ball Daima": {
+    "1400163655156236380": "Dragon Balls",
+    "1400163655185596456": "Gomah",
+    "1400163655214956625": "Shenron",
+    "1400163655244316672": "Mini Goku",
+    "1400163655269482677": "Mini Vegeta",
+    "1400163655298842645": "Glorio",
+    "1400163655332397056": "Mini Supreme Kai",
+    "1400163655357563032": "Mini Piccolo",
+    "1400163655386923179": "Panzy"
+  },
+  "Rawr xD": {
+    "1402472280432447548": "Neon Cat Hoodie",
+    "1402472280453419028": "Neon Cat Hoodie (Blue)",
+    "1402472280470196404": "Neon Cat Hoodie (Pink)",
+    "1402472280495493130": "Neon Cat Hoodie (Black)",
+    "1402472280516464710": "Neon Decora Hair",
+    "1402472280532979732": "Neon Spike Choker",
+    "1402472280554209300": "Neon Spike Choker (Black)",
+    "1402472280587632841": "Mischievous Kitties",
+    "1402472280566661272": "Mischievous Kitties (Hearts)",
+    "1402472280608604251": "Mischievous Kitties (Blue)",
+    "1402472280633770074": "Skully Charms",
+    "1402472280658935849": "Rawr xD"
+  },
+  "Secret Garden": {
+    "1404558257086926858": "Terrarium",
+    "1404558257112092763": "Mushcaps",
+    "1404558257141317743": "Blossomburst",
+    "1404558257166618704": "Greenhouse Cat",
+    "1404558257191649351": "Rainy Canopy",
+    "1404558257212756129": "Snowdrops"
   }
 }

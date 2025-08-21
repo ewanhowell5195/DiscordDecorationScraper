@@ -13,10 +13,10 @@ const nameplates = fs.existsSync("json/nameplateDecorations.json") ? JSON.parse(
 const profiles = fs.existsSync("json/profileDecorations.json") ? JSON.parse(fs.readFileSync("json/profileDecorations.json")) : {}
 
 const properties = Buffer.from(JSON.stringify({
-  "client_build_number": 420052
+  "client_build_number": 434904
 })).toString("base64")
 
-const shop = await fetch("https://discord.com/api/v9/collectibles-shop", {
+const categories = await fetch("https://discord.com/api/v9/collectibles-categories", {
   headers: {
     Authorization: token,
     "X-Super-Properties": properties
@@ -32,7 +32,7 @@ const profileEffects = await fetch("https://discord.com/api/v9/user-profile-effe
 
 const promises = []
 
-for (const category of shop.categories) {
+for (const category of categories) {
   if (category.name === "Autumn") {
     category.name = "Fall"
   } else if (category.name === "Winter Wonderland") {
