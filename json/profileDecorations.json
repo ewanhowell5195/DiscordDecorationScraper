@@ -2818,5 +2818,42 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1409898408008745141": {
+    "name": "starfall_rings",
+    "title": "Starfall Rings",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1409898408038240296": {
+    "name": "liquid_moonlight",
+    "title": "Liquid Moonlight",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1409898408063406170": {
+    "name": "moonlit_crystals",
+    "title": "Moonlit Crystals",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
