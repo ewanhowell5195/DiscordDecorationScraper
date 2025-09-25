@@ -161,7 +161,7 @@
   },
   "1159277016571449404": {
     "name": "fall-foliage",
-    "title": "Autumn Foliage",
+    "title": "Fall Foliage",
     "effects": [
       "intro-branch",
       "intro-leaves",
@@ -176,7 +176,7 @@
   },
   "1159275733764550728": {
     "name": "rain",
-    "title": "Lily Pad Life",
+    "title": "Lilypad Life",
     "effects": [
       "intro",
       "loop"
@@ -188,7 +188,7 @@
   },
   "1146328960481886318": {
     "name": "deck-the-halls",
-    "title": "Deck the Halls",
+    "title": "Deck the halls",
     "effects": [
       "intro",
       "loop"
@@ -461,7 +461,7 @@
   },
   "1220432606059954196": {
     "name": "cloves-ruse",
-    "title": "Clove’s Ruse",
+    "title": "Clove's Ruse",
     "effects": [
       "intro_b62d8ce4",
       "idle_050419ac"
@@ -510,7 +510,7 @@
   },
   "1228234629429985300": {
     "name": "all-nighter",
-    "title": "All-Nighter",
+    "title": "All Nighter",
     "effects": [
       "intro",
       "idle-frame",
@@ -524,7 +524,7 @@
   },
   "1228237154434547833": {
     "name": "watercolors",
-    "title": "Watercolours",
+    "title": "Watercolors",
     "effects": [
       "intro",
       "idle"
@@ -575,7 +575,7 @@
   },
   "1237650432650645504": {
     "name": "feelin-mischievous",
-    "title": "Feelin’ Mischievous",
+    "title": "Feelin' Mischievous",
     "effects": [
       "intro_bg",
       "intro",
@@ -590,7 +590,7 @@
   },
   "1237650563378712609": {
     "name": "feelin-70s",
-    "title": "Feelin’ 90s",
+    "title": "Feelin' 90s",
     "effects": [
       "intro",
       "idle"
@@ -602,7 +602,7 @@
   },
   "1237650638536708156": {
     "name": "feelin-pizzazz",
-    "title": "Feelin’ Pizzazz",
+    "title": "Feelin' Pizzazz",
     "effects": [
       "intro",
       "idle"
@@ -638,7 +638,7 @@
   },
   "1237654960620175360": {
     "name": "haunted-man-o-war",
-    "title": "Haunted Man o’ War",
+    "title": "Haunted Man O' War",
     "effects": [
       "intro",
       "idle"
@@ -852,7 +852,7 @@
   },
   "1271174932528893962": {
     "name": "onis-curse",
-    "title": "Oni’s Curse",
+    "title": "Oni's Curse",
     "effects": [
       "intro",
       "idle"
@@ -913,7 +913,7 @@
   },
   "1285681070196396176": {
     "name": "rain",
-    "title": "Midnight Lily Pad Life",
+    "title": "Midnight Lilypad Life",
     "effects": [
       "intro2",
       "loop2"
@@ -925,7 +925,7 @@
   },
   "1285681070196396178": {
     "name": "rain",
-    "title": "Muddy Lily Pad Life",
+    "title": "Muddy Lilypad Life",
     "effects": [
       "intro3",
       "loop3"
@@ -985,7 +985,7 @@
   },
   "1282820582421041224": {
     "name": "scarlet-fall-foliage",
-    "title": "Scarlet Autumn Foliage",
+    "title": "Scarlet Fall Foliage",
     "effects": [
       "intro-branch",
       "intro-leaves",
@@ -999,7 +999,7 @@
   },
   "1282820582441746544": {
     "name": "woodland-fall-foliage",
-    "title": "Woodland Autumn Foliage",
+    "title": "Woodland Fall Foliage",
     "effects": [
       "intro-branch",
       "intro-leaves",
@@ -1025,7 +1025,7 @@
   },
   "1285465421276905582": {
     "name": "akuma-wrath",
-    "title": "Akuma’s Wrath",
+    "title": "Akuma's Wrath",
     "effects": [
       "akuma_intro",
       "akuma_idle"
@@ -1037,7 +1037,7 @@
   },
   "1285465421297745961": {
     "name": "bisons-return",
-    "title": "M. Bison’s Return",
+    "title": "M. Bison's Return",
     "effects": [
       "bison_intro",
       "bison_idle"
@@ -1109,7 +1109,7 @@
   },
   "1287835634026811414": {
     "name": "bubblegum-zombie-slime",
-    "title": "Bubble Gum Zombie Slime",
+    "title": "Bubblegum Zombie Slime",
     "effects": [
       "intro",
       "idle"
@@ -1230,7 +1230,7 @@
   },
   "1303490165246787706": {
     "name": "ekkos-aeroglider-stunts",
-    "title": "Ekko’s Aeroglider Stunts",
+    "title": "Ekko's Aeroglider Stunts",
     "effects": [
       "intro",
       "idle_1",
@@ -1572,7 +1572,7 @@
   },
   "1326333074224578702": {
     "name": "innovators-masterwork",
-    "title": "Innovator’s Masterwork",
+    "title": "Innovator's Masterwork",
     "effects": [
       "intro",
       "idle"
@@ -2161,7 +2161,7 @@
   },
   "1352407446433431572": {
     "name": "nature_is_healing",
-    "title": "Nature Is Healing",
+    "title": "Nature is Healing",
     "effects": [
       "intro_grass",
       "intro_cat",
@@ -2623,7 +2623,7 @@
   },
   "1394404301434261574": {
     "name": "yunaras_aion_erna",
-    "title": "Yunara’s Aion Er’na",
+    "title": "Yunara's Aion Er'na",
     "effects": [
       "intro",
       "idle"
@@ -2635,7 +2635,7 @@
   },
   "1394404301480399019": {
     "name": "ahris_floating_ducks",
-    "title": "Ahri’s Floating Ducks",
+    "title": "Ahri's Floating Ducks",
     "effects": [
       "intro",
       "idle"
@@ -2846,6 +2846,57 @@
   "1409898408063406170": {
     "name": "moonlit_crystals",
     "title": "Moonlit Crystals",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1409979036456976475": {
+    "name": "rocketfuel",
+    "title": "Blast Off",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1412514944888340692": {
+    "name": "loot_shower",
+    "title": "Loot Shower",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1412514944913772554": {
+    "name": "doin_the_robot",
+    "title": "Doin' the robot",
+    "effects": [
+      "intro",
+      "idle",
+      "idle_2"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1412514944930549872": {
+    "name": "the_timekeeper",
+    "title": "The Timekeeper",
     "effects": [
       "intro",
       "idle"
