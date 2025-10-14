@@ -84,11 +84,10 @@
     "1197344345783808161": "Glitch",
     "1197344653515690054": "Implant"
   },
-  "Nitro": {
+  "DISXCORE": {
     "1144058522808614924": "DISXCORE Headset",
     "1144058844004233370": "Futuristic UI",
-    "1144059132517826602": "Smoke",
-    "1409978159255785652": "Jet Ring"
+    "1144059132517826602": "Smoke"
   },
   "Dark Fantasy": {
     "1256321669467865095": "Arcane Sigil",
@@ -286,7 +285,16 @@
     "1413239353219612796": "Dream Dive Stars",
     "1416166649005871265": "skate.",
     "1419735933929918536": "Atsu's Mask",
-    "1420603707141394483": "Travel Ring"
+    "1420603707141394483": "Travel Ring",
+    "1420110608145055766": "Champions Tactibear",
+    "1422723412052279357": "Tactibear Flex",
+    "1420527272602894387": "KOM",
+    "1420482600266502327": "FC 26",
+    "1424960507143524495": "Airona Fireworks",
+    "1423746348905136170": "Mr. M",
+    "1426003040720261121": "Daredevil",
+    "1252404745977462836": "Cab Monster",
+    "1425613673417801771": "The Final Peel"
   },
   "SpongeBob": {
     "1262491137394868312": "Flower Clouds",
@@ -653,5 +661,30 @@
     "1409898407866138666": "Luna Moths",
     "1409898407887110306": "Moonlit Charms",
     "1409898407916605491": "Liquid Moon"
+  },
+  "Trick or Treat": {
+    "1418326116048830495": "Mr Jack O’ Lantern (Trick)",
+    "1418326116069802125": "Mr Jack O’ Lantern (Treat)",
+    "1418326116162076703": "Boo! (Trick)",
+    "1418326116183048253": "Boo! (Treat)",
+    "1418326116086714519": "Just Hangin’ (Trick)",
+    "1418326116107817050": "Just Hangin’ (Treat)",
+    "1418326116120395937": "Rest in Peace (Trick)",
+    "1418326116145561680": "Rest in Peace (Treat)"
+  },
+  "Woodland Friends": {
+    "1420045362982551652": "Forest Frolic",
+    "1420045363011911700": "Cosy Deer",
+    "1420045363041271918": "A Real Fungi",
+    "1420045363078889492": "Lover Girl Autumn",
+    "1420045363104055416": "Autumn Foliage",
+    "1420045363133415474": "Hoppy Boi"
+  },
+  "It’s Showtime": {
+    "1420225379372892200": "Lights, Camera, Action! (Orange)",
+    "1420225379385344151": "Lights, Camera, Action! (Teal)"
+  },
+  "Nitro": {
+    "1409978159255785652": "Jet Ring"
   }
 }

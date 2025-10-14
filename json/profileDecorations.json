@@ -2906,5 +2906,145 @@
       "thumbnail",
       "reduced_motion"
     ]
+  },
+  "1420045363246661703": {
+    "name": "weeeee",
+    "title": "WEEEEE~",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1420057112104407161": {
+    "name": "you_rang_treat",
+    "title": "You Rang? (Treat)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1420057112087760896": {
+    "name": "you_rang_trick",
+    "title": "You Rang? (Trick)",
+    "effects": [
+      "intro",
+      "idle_1",
+      "idle_2"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1420045363276021802": {
+    "name": "maple_mornings",
+    "title": "Maple Mornings",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1420057112070848632": {
+    "name": "world_wide_web_treat",
+    "title": "World Wide Web (Treat)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1420057112020517005": {
+    "name": "a_bit_batty_trick",
+    "title": "A Bit Batty (Trick)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1420225379443937321": {
+    "name": "every_profile_is_a_stage_teal",
+    "title": "Every Profile is a Stage (Teal)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1420057112037429339": {
+    "name": "a_bit_batty_treat",
+    "title": "A Bit Batty (Treat)",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1420225379431481384": {
+    "name": "every_profile_is_a_stage_orange",
+    "title": "Every Profile is a Stage (Orange)",
+    "effects": [
+      "intro_orange",
+      "idle_orange"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1420045363334742086": {
+    "name": "cozy_flower",
+    "title": "Cozy Flower",
+    "effects": [
+      "intro",
+      "idle"
+    ],
+    "extra": [
+      "thumbnail",
+      "reduced_motion"
+    ]
+  },
+  "1420057112058269696": {
+    "name": "world_wide_web_trick",
+    "title": "World Wide Web (Trick)",
+    "effects": [
+      "intro",
+      "idle_1",
+      "idle_2"
+    ],
+    "extra": [
+      "static",
+      "thumbnail",
+      "reduced_motion"
+    ]
   }
 }
